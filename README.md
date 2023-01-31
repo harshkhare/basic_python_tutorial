@@ -10,14 +10,12 @@ This repository provides a set of assignments for a very basic introduction to P
 It does not teach each and every aspect of Python programming, but it gives simple questions to solve along with some quick information.
 It expects that the user will find out from other resources regarding the coding language and the syntax.
 
-It should also be noted that these assignments were meant for supervised introduction to Python.
+It should also be noted that these assignments were meant for supervised introduction to Python so the explanations may not be complete in all cases.
 The assignments themselves do not aim to provide full Python course that can be learned indepently.
 It is a mere collection of assignments that may make the topic interesting for beginners.
 
 Below are some other online resources that I recommend for understanding Python coding structure and syntax.
-https://docs.python.org/3/library/index.html
+https://docs.python.org/3/library/index.html<br>
 https://pythonbasics.org/
 
 I hope you enjoy these assignments.
-
-
