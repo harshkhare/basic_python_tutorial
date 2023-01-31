@@ -1,0 +1,6 @@
+Sr. No., Name, CGPA, DegreeAwarded
+
+(1, 'Sampada', 7.3, True)
+(2, 'Supriya', 7.8, True)
+(3, 'Anuja', 7.9, True)
+(4, 'Sumedha', 7.1, True)
